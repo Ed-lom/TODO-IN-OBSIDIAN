@@ -1,0 +1,283 @@
+{
+  "main": {
+    "id": "de26aa3ea2bfa86c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d528fc0d6a9e3419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f680448865e7ec5a",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8060bc8634005d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ff829b02e5aba78",
+        "type": "tabs",
+        "dimension": 42.31884057971014,
+        "children": [
+          {
+            "id": "a8d55e5112ed7e37",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "eb27b9d0225009ca",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "3aa770bcea59caaa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Дашборды/Список задач.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Список задач"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "959f5bb2d9b6516d",
+        "type": "tabs",
+        "dimension": 57.68115942028985,
+        "children": [
+          {
+            "id": "8cc6bf105ec822da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "a2faf16628b15b06",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Входящее",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 561.5
+  },
+  "right": {
+    "id": "237f20b9444989fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c961291837e76de",
+        "type": "tabs",
+        "dimension": 31.26159554730983,
+        "children": [
+          {
+            "id": "35e789440d5ab3e4",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e84a0815cc150e6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "3a3debf2b2a0a745",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "290e9f7ef6f1bb7b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "e1237d539c14021c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8bb1b340301d1691",
+        "type": "tabs",
+        "dimension": 68.73840445269016,
+        "children": [
+          {
+            "id": "ab5eeee430289293",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99_Дашборды/Дашборд.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Дашборд"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": true,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": true,
+      "templates:Вставить шаблон": true,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": true,
+      "audio-recorder:Начать/остановить запись": false,
+      "workspaces:Пространства": false,
+      "publish:Публикация изменений": true,
+      "omnisearch:Omnisearch": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "f680448865e7ec5a",
+  "lastOpenFiles": [
+    "01_Задачи/Текущие задачи/Без названия.md",
+    "99_Вложения/Без названия.md",
+    "02_Цели/Без названия.md",
+    "00_Входящие задачи/Без названия.md",
+    "99_Дашборды/Список задач.md",
+    "99_Дашборды/Дашборд.md",
+    "99_Шаблоны/Входящее.md",
+    "99_Шаблоны/Задача.md",
+    "99_Шаблоны/Проект.md",
+    "02_Цели/2. Доход/OPUS Закончить разработку и проверку пространства.md",
+    "02_Цели/2. Доход/Agenda Для получениях дохода 70к.md",
+    "02_Цели/2. Доход/150к на протяжении 2 месяцев.md",
+    "02_Цели/1. Ютуб/YouTube Эдуард Ломосков/YouTube Выложить 10 роликов.md",
+    "02_Цели/4. Хобби/Хобби фото прогулки.md",
+    "02_Цели/5. Осознанность/Дневник/Переписка с GPT.md",
+    "02_Цели/5. Осознанность/Дневник/Вопросы на подумать.md",
+    "02_Цели/5. Осознанность/Чтение/Читательский дневник.md",
+    "02_Цели/Мои цели до конца 2024 года.md",
+    "99_Вложения/max-saeling-_CGxNOLM1gQ-unsplash.jpg",
+    "99_Вложения/matilda-alloway-21mUU21Z20Q-unsplash.jpg",
+    "99_Вложения/estee-janssens-aQfhbxailCs-unsplash.jpg",
+    "99_Вложения/DSC00486.jpg",
+    "99_Вложения/DSC00433.jpg",
+    "99_Вложения/DSC00415-2.jpg",
+    "01_Задачи/Выполненные задачи/OPUS.md",
+    "01_Задачи/Текущие задачи/№5 Лучший подарок.md",
+    "01_Задачи/Текущие задачи/№4 Todo в Notion и Obsidian.md",
+    "01_Задачи/Текущие задачи/№3 Финансовая грамотность.md",
+    "01_Задачи/Текущие задачи/Прочитать Кафе на краю земли.md",
+    "01_Задачи/Текущие задачи/Задачи по Agenda на 2024-10-06.md",
+    "01_Задачи/Текущие задачи/2024-10-09 YouTube.md",
+    "01_Задачи/Текущие задачи/2024-10-06.md",
+    "00_Вложения",
+    "02_Цели/5. Осознанность/Чтение",
+    "02_Цели/4. Хобби",
+    "02_Цели/3. Здоровье",
+    "02_Цели/2. Доход",
+    "02_Цели/5. Осознанность",
+    "02_Цели/1. Ютуб",
+    "02_Цели/5. Осознанность/Дневник",
+    "02_Цели/OPUS",
+    "02_Цели/Agenda",
+    "Безопасная рамка.png",
+    "00_Вложения/Pasted image 20241007191616.png",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "Pasted image 20240923121444.png",
+    "Pasted image 20240923121431.png",
+    "Идеи.canvas",
+    "Notion/Без названия.canvas"
+  ]
+}

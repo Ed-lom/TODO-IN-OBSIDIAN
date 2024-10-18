@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAirplay",
+      "LiHeart",
+      "LiCamera",
+      "LiPlus",
+      "LiBadgeDollarSign"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [
+      {
+        "rule": "Ютуб",
+        "icon": "LiVideo",
+        "for": "everything",
+        "order": 0
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "99_Шаблоны": "LiAtom",
+  "99_Вложения": "LiAlbum",
+  "00_Входящие задачи": "LiArchive",
+  "01_Задачи": "LiBadgeCheck",
+  "99_Дашборды": "LiAirplay",
+  "99_Дашборды/Список задач.md": "LiAlignJustify",
+  "99_Дашборды/Дашборд.md": "LiAlbum",
+  "02_Цели": "LiGoal"
+}

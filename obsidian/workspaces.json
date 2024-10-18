@@ -1,0 +1,209 @@
+{
+  "workspaces": {
+    "ЭДУАРД ЛОМОСКОВ": {
+      "main": {
+        "id": "de26aa3ea2bfa86c",
+        "type": "split",
+        "children": [
+          {
+            "id": "bb5cfaf5e140106b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5ed5f816ea05716a",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "04_Области/Отпуск/Картинки/01_Отпуск Иссык-Куль.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f8060bc8634005d9",
+        "type": "split",
+        "children": [
+          {
+            "id": "54fb39d330adb3b0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a2faf16628b15b06",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "16390f734bff3814",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "8cc6bf105ec822da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 374.5
+      },
+      "right": {
+        "id": "237f20b9444989fc",
+        "type": "split",
+        "children": [
+          {
+            "id": "1c961291837e76de",
+            "type": "tabs",
+            "dimension": 24.768089053803337,
+            "children": [
+              {
+                "id": "31e6f32860a60ad1",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "04_Области/Отпуск/Картинки/01_Отпуск Иссык-Куль.png",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "cf923e2ac3dcd1e5",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "04_Области/Отпуск/Картинки/01_Отпуск Иссык-Куль.png",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "0217f766fca4925e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9fb507b7dc53f73a",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  }
+                }
+              },
+              {
+                "id": "cbd73dbadfa2cba2",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "04_Области/Отпуск/Картинки/01_Отпуск Иссык-Куль.png"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "fe943f04ffb374d6",
+            "type": "tabs",
+            "dimension": 31.818181818181817,
+            "children": [
+              {
+                "id": "df13ebb173f285e1",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "4be8f4ca93b6689c",
+            "type": "tabs",
+            "dimension": 43.41372912801485,
+            "children": [
+              {
+                "id": "e84a0815cc150e6e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Меню быстрого перехода": false,
+          "graph:Граф": false,
+          "canvas:Создать новый холст": false,
+          "daily-notes:Сегодняшняя заметка": false,
+          "templates:Вставить шаблон": false,
+          "command-palette:Открыть палитру команд": false,
+          "markdown-importer:Импорт Markdown-файлов": false,
+          "audio-recorder:Начать/остановить запись": false,
+          "workspaces:Пространства": false,
+          "publish:Публикация изменений": false,
+          "remotely-save:Remotely Save": false,
+          "soundscapes:Soundscapes: My Music": false,
+          "omnisearch:Omnisearch": true,
+          "obsidian-projects:Open projects": false,
+          "obsidian-importer:Open Importer": true,
+          "obsidian-excalidraw-plugin:Create new drawing": false
+        }
+      },
+      "active": "8cc6bf105ec822da",
+      "mtime": "2024-09-16T14:01:51+06:00"
+    }
+  },
+  "active": "ЭДУАРД ЛОМОСКОВ"
+}
