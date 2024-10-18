@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showRibbon": true,
+  "readableLineLength": true,
+  "autoPairBrackets": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "99_Вложения",
+  "livePreview": true
+}

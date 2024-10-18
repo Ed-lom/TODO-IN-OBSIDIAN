@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Входящее  ",
+      "color": {
+        "a": 1,
+        "rgb": 16749824
+      }
+    },
+    {
+      "query": "tag:#Задача  ",
+      "color": {
+        "a": 1,
+        "rgb": 327424
+      }
+    },
+    {
+      "query": "tag:#Проект  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "Архив",
+      "color": {
+        "a": 1,
+        "rgb": 9699328
+      }
+    },
+    {
+      "query": "path:99_Дашборды  ",
+      "color": {
+        "a": 1,
+        "rgb": 13107455
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -0.7,
+  "nodeSizeMultiplier": 1.37551546391753,
+  "lineSizeMultiplier": 1.5270618556701,
+  "collapse-forces": true,
+  "centerStrength": 0.512886597938144,
+  "repelStrength": 11.2371134020619,
+  "linkStrength": 1,
+  "linkDistance": 316,
+  "scale": 0.2613881330936231,
+  "close": true
+}
